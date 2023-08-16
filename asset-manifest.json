@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Practice/static/css/main.dac6deab.css",
-    "main.js": "/React-Practice/static/js/main.bf838e77.js",
-    "static/js/787.9e6188a1.chunk.js": "/React-Practice/static/js/787.9e6188a1.chunk.js",
-    "index.html": "/React-Practice/index.html",
-    "main.dac6deab.css.map": "/React-Practice/static/css/main.dac6deab.css.map",
-    "main.bf838e77.js.map": "/React-Practice/static/js/main.bf838e77.js.map",
-    "787.9e6188a1.chunk.js.map": "/React-Practice/static/js/787.9e6188a1.chunk.js.map"
+    "main.css": "/recipe-project/static/css/main.dac6deab.css",
+    "main.js": "/recipe-project/static/js/main.f1a7017e.js",
+    "static/js/787.9e6188a1.chunk.js": "/recipe-project/static/js/787.9e6188a1.chunk.js",
+    "index.html": "/recipe-project/index.html",
+    "main.dac6deab.css.map": "/recipe-project/static/css/main.dac6deab.css.map",
+    "main.f1a7017e.js.map": "/recipe-project/static/js/main.f1a7017e.js.map",
+    "787.9e6188a1.chunk.js.map": "/recipe-project/static/js/787.9e6188a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dac6deab.css",
-    "static/js/main.bf838e77.js"
+    "static/js/main.f1a7017e.js"
   ]
 }
